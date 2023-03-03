@@ -1,14 +1,8 @@
-# Andrezab3301 😎🤨
- ## cabeçalho secundário
-*texto em italico*
+# André Zabandzala
 
-**texto em negrito**
+* Estudo no IFPR
+* Cursando Tecnologo em Análise e Desinvolvimento de Sistemas - (2/3)
+* Aprendendo Front end
 
-
-* lista
-* iten 1
-* iten 2
-* iten 3
-    * subiten 1
 
 ![Imagem](https://myoctocat.com/assets/images/base-octocat.svg)
